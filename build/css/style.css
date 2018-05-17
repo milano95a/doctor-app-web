@@ -1,0 +1,22 @@
+.message-content{
+    width: 71%;
+    float: right;
+}
+
+.message-text {
+    margin-top: 0;
+    line-height: 1.2;
+    font-size: 14px;
+}
+.message-content .btn{
+    padding: 5px 10px;
+    font-size: 12px;    
+}
+
+.menu.msg_list, .navbar-nav .open .dropdown-menu.msg_list {
+    width: 252px;
+}
+
+ul.msg_list li:last-child {
+    padding-bottom: 3px; 
+}

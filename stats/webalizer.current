@@ -1,0 +1,310 @@
+# Webalizer V2.21-02 Incremental Data - 05/12/2017 14:31:05
+2017 5 12 14 31 5
+473 275 7 59 19 8 15676985 65 14 0
+1 1 138 1 12
+136 92 4767757 3 16 3
+67 18 623809 1 14 3
+6 0 3564 1 0 0
+0 0 0 0 0 0
+2 0 384 1 0 0
+1 0 192 1 0 0
+0 0 0 0 0 0
+3 0 576 1 0 0
+3 0 576 1 2 1
+252 165 10279551 5 33 7
+2 0 384 1 0 0
+1 0 192 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 192 0
+3 0 576 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 192 0
+2 0 384 0
+0 0 0 0
+1 0 192 0
+106 62 3565286 11
+0 0 0 0
+30 12 586162 8
+39 9 111653 5
+0 0 0 0
+11 3 70454 4
+131 93 6558139 15
+138 92 4768945 16
+1 0 192 0
+9 4 14618 4
+0 0 0 0
+0 0 0 0
+0
+0
+0
+275
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+194
+0
+0
+0
+0
+0
+# -urls- 
+/vendors/iCheck/icheck.min.js
+0 6 0 29586 0 0
+/vendors/Flot/jquery.flot.resize.js
+0 4 0 13256 0 0
+/vendors/font-awesome/css/font-awesome.min.css
+0 8 0 232504 0 0
+/vendors/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+0 7 0 126196 0 0
+/production/pricing_tables.html
+0 3 0 16701 0 1
+/production/inbox.html
+0 1 0 4818 1 0
+/vendors/moment/min/moment.min.js
+0 4 0 186580 0 0
+/vendors/jquery.hotkeys/jquery.hotkeys.js
+0 1 0 5019 0 0
+/production/images/uzbekistan-map_0.png
+1 6 0 4098217 0 0
+/vendors/jqvmap/dist/jqvmap.min.css
+0 4 0 2484 0 0
+/build/css/custom.min.css
+0 8 0 500672 0 0
+/vendors/flot-spline/js/jquery.flot.spline.min.js
+0 4 0 7024 0 0
+/vendors/animate.css/animate.min.css
+0 5 0 263945 0 0
+/vendors/font-awesome/fonts/fontawesome-webfont.woff2
+0 8 0 575168 0 0
+/production/login.html
+0 4 0 4276 0 2
+/vendors/bootstrap/dist/css/bootstrap.min.css
+0 8 0 969600 0 0
+/vendors/iCheck/skins/flat/green.css
+0 6 0 7902 0 0
+/vendors/pnotify/dist/pnotify.buttons.css
+0 4 0 272 0 0
+/production/live-chat-2.html
+0 6 0 68445 1 0
+/build/js/custom.min.js
+0 7 0 507101 0 0
+/vendors/Chart.js/dist/Chart.min.js
+0 4 0 588676 0 0
+/vendors/gauge.js/dist/gauge.min.js
+0 4 0 71392 0 0
+/production/index1_1.html
+0 5 0 26765 0 0
+/production/invoice.html
+0 7 0 28420 4 0
+/vendors/flot.curvedlines/curvedLines.js
+0 4 0 65352 0 0
+/vendors/google-code-prettify/bin/prettify.min.css
+0 1 0 675 0 0
+/vendors/jqvmap/examples/js/jquery.vmap.sampledata.js
+0 4 0 9544 0 0
+/production/
+0 7 0 7483 4 2
+/vendors/Flot/jquery.flot.pie.js
+0 4 0 95236 0 0
+/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js
+0 4 0 9332 0 0
+/vendors/flot.orderbars/js/jquery.flot.orderBars.js
+0 4 0 27676 0 0
+/production/live_chat.html
+0 3 0 15687 0 0
+/production/pricing_tables2.html
+0 2 0 10850 0 0
+/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js
+0 1 0 5448 0 0
+/production/tables.html
+0 4 0 14044 0 0
+/vendors/pnotify/dist/pnotify.css
+0 4 0 7944 0 0
+/vendors/fastclick/lib/fastclick.js
+0 7 0 181755 0 0
+/vendors/bootstrap/dist/css/bootstrap.min.css.map
+0 7 0 3795358 0 0
+/production/index1.html
+0 4 0 22048 2 0
+/production/images/img.jpg
+1 7 0 28539 0 0
+/vendors/Flot/jquery.flot.js
+0 4 0 491884 0 0
+/vendors/DateJS/build/date.js
+0 4 0 515816 0 0
+/production/plain_page.html
+0 1 0 2722 0 1
+/vendors/jqvmap/dist/jquery.vmap.js
+0 4 0 136272 0 0
+/vendors/google-code-prettify/src/prettify.js
+0 1 0 63320 0 0
+/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css
+0 4 0 20056 0 0
+/vendors/bootstrap/dist/js/bootstrap.min.js
+0 7 0 258076 0 0
+/vendors/Flot/jquery.flot.time.js
+0 4 0 47072 0 0
+/production/general_elements.html
+0 4 0 15384 0 0
+/vendors/bootstrap-daterangepicker/daterangepicker.js
+0 4 0 278832 0 0
+/vendors/nprogress/nprogress.js
+0 7 0 80955 0 0
+/vendors/pnotify/dist/pnotify.nonblock.css
+0 4 0 432 0 0
+/vendors/jquery/dist/jquery.min.js
+0 7 0 599046 0 0
+/production/tables2.html
+0 9 0 35272 1 1
+/vendors/skycons/skycons.js
+0 4 0 76100 0 0
+/vendors/bootstrap-daterangepicker/daterangepicker.css
+0 4 0 32532 0 0
+/vendors/Flot/jquery.flot.stack.js
+0 4 0 28360 0 0
+/vendors/jqvmap/dist/maps/jquery.vmap.world.js
+0 4 0 242396 0 0
+/vendors/nprogress/nprogress.css
+0 8 0 11664 0 0
+# End Of Table - urls
+# -sites- (monthly)
+149.154.167.162
+0 2 2 5129 2 1494419417
+/production/invoice.html
+nat-service.aws.kontera.com
+0 8 4 14426 1 1494450090
+/production/tables2.html
+ec2-54-173-35-129.compute-1.amazonaws.com
+0 9 0 1728 0 0
+-
+77-161-221-83.stream.uz
+0 225 114 6085852 6 1494431013
+/production/index1_1.html
+c-k320-u1129-161.webazilla.com
+0 3 0 576 1 1494304338
+-
+64.71.171.77
+0 10 4 70262 1 1494438610
+/production/tables2.html
+static-c96-137.tshtt.uz
+0 216 154 9499012 3 1494440803
+/production/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-54-173-35-129.compute-1.amazonaws.com
+0 1 0 192 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://aaschoolphp.dst.uz/production/tables.html
+1 20
+- (Direct Request)
+0 39
+http://aaschoolphp.dst.uz/
+1 3
+http://aaschoolphp.dst.uz/production/index1_1.html
+1 91
+http://aaschoolphp.dst.uz/vendors/bootstrap/dist/css/bootstrap.min.css
+1 7
+http://aaschoolphp.dst.uz/production/index1.html
+1 74
+http://aaschoolphp.dst.uz/production/tables2.html
+1 58
+http://aaschoolphp.dst.uz/production/live_chat.html
+1 11
+http://aaschoolphp.dst.uz/production/pricing_tables2.html
+1 6
+http://aaschoolphp.dst.uz/production/
+1 21
+http://aaschoolphp.dst.uz/production/invoice.html
+1 41
+http://aaschoolphp.dst.uz/production/inbox.html
+1 7
+http://aaschoolphp.dst.uz/production/pricing_tables.html
+1 5
+http://aaschoolphp.dst.uz/production/plain_page.html
+1 3
+http://aaschoolphp.dst.uz/production/login.html
+1 8
+http://aaschoolphp.dst.uz/production/index.html
+1 23
+http://aaschoolphp.dst.uz/production/general_elements.html
+1 33
+http://aaschoolphp.dst.uz/vendors/font-awesome/css/font-awesome.min.css
+1 8
+http://aaschoolphp.dst.uz/production/live-chat-2.html
+1 15
+# End Of Table - referrers
+# -agents- 
+TelegramBot (like TwitterBot)
+0 2
+Mozilla/5.0 (compatible; SurdotlyBot/1.0; +http://sur.ly/bot.html)
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+0 91
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 8
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 235
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+0 106
+ia_archiver
+0 9
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
